@@ -32,5 +32,7 @@ Copy
 Edit
 http://localhost/travel-and-tourism-management-system/index.php
 Project Demo Video
+<br>
 Watch the live demo of the project:
+<br>
 #TourEase Demo Video: https://drive.google.com/file/d/1XZU9O-P4QBACl4kQx4Vl6hpEc-rKg9f9/view?usp=sharing
